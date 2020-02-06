@@ -5,7 +5,7 @@ Kaggle Competition - How many yards will an NFL player gain after receiving a ha
 ## Introduction
 This [competition]([https://www.kaggle.com/c/nfl-big-data-bowl-2020](https://www.kaggle.com/c/nfl-big-data-bowl-2020)) hosted by Kaggle and provided by NFL (with Next Gen Stats) was aimed at predicting the number of yards a run play will make. Different to a passing play, a run play is when the ball is handed (or tossed a short distance) to another player, as seen below. This play was and is considered a very successful run play - but what goes in to predicting plays like this? Is it just luck?
 
-![run play](https://media.giphy.com/media/UetVmMI3HkMr6/giphy.gif)
+![run play](https://media.giphy.com/media/UetVmMI3HkMr6/source.gif)
 
 ## Summary
 The competition used incredibly detailed player tracking data for each play, incuding exact coordinates of every player (Offense and Defense), the movement direction, speed, acceleration, weight, height of every player... The list goes on, you can find the full data [here]([https://www.kaggle.com/c/nfl-big-data-bowl-2020/data](https://www.kaggle.com/c/nfl-big-data-bowl-2020/data)). 
